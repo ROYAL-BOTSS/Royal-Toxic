@@ -9,7 +9,7 @@
 
 <div align=center>
 
- [![Discord](https://img.shields.io/discord/658
+ [![Discord](https://discord.gg/WKFdGqvdZB)
   
 </div>
 
